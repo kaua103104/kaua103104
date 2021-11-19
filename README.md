@@ -3,8 +3,8 @@ Olá, eu sou o Kaua Santos
 - 🌱Análise e Desenvolvimento de Sistemas
 <div>
   <a href="https://github.com/kaua103103">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kaua103103&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaua103103&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kaua103104&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaua103104&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -13,7 +13,7 @@ Olá, eu sou o Kaua Santos
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Wesley-mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.gifer.com/origin/e6/e6f780e1dcced9031ede660c399958e3.gif">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://1.bp.blogspot.com/-swxriVv8DvA/WN5SrcBNlUI/AAAAAAAAbAM/UdvIkgYhdI0QAk4hXDkqgKJJHI6WEz_9ACLcB/s1600/Gifs%2Banimados%2BGru%2B4.gif">
 </div>
   
   ##
@@ -24,4 +24,4 @@ Olá, eu sou o Kaua Santos
 </div>
   
   
-  ![Snake animation](https://github.com/kaua103103/kaua103103/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/kaua103104/kaua103104/blob/output/github-contribution-grid-snake.svg)
